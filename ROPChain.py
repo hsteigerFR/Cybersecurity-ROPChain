@@ -9,7 +9,7 @@
 # Script:          Python 2.7
 # Notes:
 #   This exploit enables to launch the calculator using a ROP Chain on the software CloudMe. Once launched,
-#   this Python program will send a message to the local 8888 port whose CloudMe is listening to. One part
+#   this Python program will send a message to the local 8888 port that CloudMe is listening to. One part
 #   of this message will be interpreted by Windows through VirtualProtect() and open the calculator software. 
 #   In order to make this exploit work, CloudMe does not require to be run with Administrator privileges. 
 #   This ROP chain was created with mona.py (Corelan) run on Immunity Debugger and tested with WinDBG(x64). 

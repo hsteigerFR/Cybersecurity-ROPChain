@@ -15,3 +15,5 @@ HOW TO USE :
 - Run CloudMe.exe (no need for Administrator privileges)
 - Launch "ROPChain.py" with Python 2.7 : the content of the sent message should appear in the console
 - -> CloudMe.exe should crash and the calculator app should start
+
+The code was successfully tested on Windows 10 (x64) - Version 10.0.19043 Build 19043.

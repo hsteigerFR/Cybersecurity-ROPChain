@@ -1,6 +1,7 @@
 # Cybersecurity - ROP Chain
 
 Author : Hugo Steiger  
+Mentor : Fabrice Sabatier  
 Full documentation (in french) : https://drive.google.com/drive/folders/1zk0_hDLVdnrfNR9fUt-6JmRmidWrFUTV?usp=sharing
 
 This project was carried out as part as Mines Nancy last year "Information Systems Attacks" course, within the Computer Science Departement. The projet goal was to create a ROP Chain exploit with a chosen program, on a recent version of Windows. CVE-2018-6892, refering to a CloudMe vulnerability (v1.11.2), was used to make the exploit.

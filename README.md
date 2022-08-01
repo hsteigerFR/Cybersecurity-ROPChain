@@ -15,10 +15,10 @@ The ROP Chain was built using gadgets from different available libraries, retrie
 ![ROPChain Explained](https://user-images.githubusercontent.com/106969232/179573210-d15caf31-53d3-40df-8ca5-2c27ffe473cd.JPG)
 
 HOW TO USE :
-- git pull this repo
-- Download CloudMe_1112.exe (https://www.cloudme.com/downloads/CloudMe_1112.exe) and install
-- Run CloudMe.exe (no need for Administrator privileges)
-- Launch "ROPChain.py" with Python 2.7 : the content of the sent message should appear in the console
-- -> CloudMe.exe should crash and the calculator app should start
+- git pull this repo.
+- Download CloudMe_1112.exe (https://www.cloudme.com/downloads/CloudMe_1112.exe) and install.
+- Run CloudMe.exe (no need for Administrator privileges).
+- Launch "ROPChain.py" with Python 2.7 : the content of the sent message should appear in the console.
+- -> CloudMe.exe should crash and the calculator app should start.
 
 The code was successfully tested on Windows 10 (x64) - Version 10.0.19043 Build 19043.
